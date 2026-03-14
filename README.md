@@ -7,18 +7,6 @@ applications using React, JavaScript, Python, and Supabase. Strong focus on
 clean UI, real-world problem solving, and AI-assisted workflows. Actively
 building and deploying projects with authentication, dashboards, and APIs.
 
-PromptMaster | React, Tailwind, FastAPI, Supabase
-• Built a full-stack AI prompt-engineering practice platform with authentication,
-  scoring, analytics, and user dashboards.
-• Designed AI-driven evaluation workflows to score prompts and track performance
-  across multiple challenge categories.
-• Deployed frontend on Vercel and backend on Render with Supabase for auth and data.
-
-Aevus – Classroom Attendance Solution | React, JavaScript, Supabase
-• Designed a web app to reduce proxy attendance and streamline classroom tracking.
-• Implemented database-driven attendance logic using Supabase.
-• Created responsive UI using React and Figma-based designs.
-
 SKILLS
 
 Languages:
