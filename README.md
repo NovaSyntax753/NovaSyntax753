@@ -1,6 +1,6 @@
 ## Hi there My nane is Tejas Dhok👋
 Full-Stack Developer | React, Next.js, Python | Building Real-World Web Apps
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 TECHNICAL SUMMARY
 Full-stack developer with hands-on experience building production-ready web
 applications using React, JavaScript, Python, and Supabase. Strong focus on
