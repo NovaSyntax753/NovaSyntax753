@@ -1,31 +1,31 @@
 ## Hi there My nane is Tejas Dhok👋
 Full-Stack Developer | React, Next.js, Python | Building Real-World Web Apps
-TECHNICAL SUMMARY
+## TECHNICAL SUMMARY
 Full-stack developer with hands-on experience building production-ready web
 applications using React, JavaScript, Python, and Supabase. Strong focus on
 clean UI, real-world problem solving, and AI-assisted workflows. Actively
 building and deploying projects with authentication, dashboards, and APIs.
 
-SKILLS
+## SKILLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,tailwind,bootstrap,fastapi,flask,nodejs,supabase,git,github,vercel,vscode)](https://skillicons.dev)
 
-Languages:
+## Languages:
 Python, JavaScript 
 
-Frontend:
+## Frontend:
 HTML, CSS, React, Tailwind CSS, Bootstrap
 
-Backend:
+## Backend:
 FastAPI, Flask, Node.js (basic), REST APIs
 
-Database & Auth:
+## Database & Auth:
 Supabase
 
-Tools & Platforms:
+## Tools & Platforms:
 Git, GitHub, VS Code, Vercel, Render
 
-LINKS
+## LINKS
 GitHub: https://github.com/NovaSyntax753
 
 LinkedIn: https://www.linkedin.com/in/tejas-dhok-329983371/
